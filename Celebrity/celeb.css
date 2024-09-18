@@ -6,7 +6,7 @@
 
 body{
   margin: 0;
-  background: linear-gradient(to left bottom, #ff00cc, #333399, #ff00cc);  
+  background: linear-gradient(to left bottom, #ec008c, #fc6767, #ec008c);  
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -56,8 +56,9 @@ p{
 
   .names{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    gap: 1rem;
   }
 
   .add{
@@ -117,4 +118,8 @@ p{
     margin-top: .5rem;
     gap: 6px;
     text-align: center;
+  }
+
+  .bee{
+    font-size: 60px;
   }
