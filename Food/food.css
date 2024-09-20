@@ -121,6 +121,10 @@ p{
     text-align: center;
   }
 
+  .fry{
+    font-size: 50px;
+  }
+
 
   @media (min-width: 1000px){
     .wrapper{
