@@ -127,3 +127,10 @@ p{
   .joe, .iran, .iron{
     font-size: 50px;
   }
+
+
+  @media (min-width: 1000px){
+    .wrapper{
+      width: 50%;
+    }
+  }
