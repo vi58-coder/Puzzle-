@@ -7,7 +7,7 @@
 body{
   margin: 0;
   /* background: linear-gradient(to left bottom, #ec008c, #fc6767, #ec008c);   */
-  background: linear-gradient(to right, blue, orange);
+  background: linear-gradient(to right, #FCC2BD, #C5E5E1);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -16,6 +16,7 @@ body{
   font-family: sans-serif;
  
 }
+/* (to right, blue, orange) */
 
 
 a{
