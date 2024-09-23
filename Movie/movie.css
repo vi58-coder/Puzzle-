@@ -7,7 +7,7 @@
 body{
   margin: 0;
   /* background: linear-gradient(to left bottom, #ec008c, #fc6767, #ec008c);   */
-  background: linear-gradient(to right bottom, #108dc7, #ef8e38);
+  background: linear-gradient(to right, blue, orange);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,6 +28,10 @@ p{
 
 .joker{
   font-size: 160px;
+}
+
+.pant{
+  font-size: 60px;
 }
 
 .context{
@@ -88,6 +92,11 @@ p{
     color: red;
     font-size: 60px;
 
+  }
+
+  .context{
+    font-size: 22px;
+    font-weight: 600;
   }
 
   .input{

@@ -18,6 +18,7 @@ body{
 }
 
 
+
 a{
     text-decoration: none;
 }
@@ -53,6 +54,11 @@ p{
     border-radius: 10px;
     width: 90%;
     text-align: center;
+  }
+
+  .context{
+    font-size: 22px;
+    font-weight: 600;
   }
 
   .names{
