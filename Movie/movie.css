@@ -27,6 +27,11 @@ p{
     font-size: 100px;
 }
 
+h3{
+  font-size: 26px;
+}
+
+
 .joker{
   font-size: 160px;
 }
@@ -148,7 +153,14 @@ p{
     }
 
     .img{
-      width: 30px;
-      height: 30px;
+      width: 50%;
+      height: 50%;
+      align-self: center;
+    }
+
+    .topper{
+      position: absolute;
+      bottom: 85%;
+      right: 25%;
     }
   }

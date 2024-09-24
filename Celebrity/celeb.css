@@ -16,6 +16,10 @@ body{
  
 }
 
+h3{
+  font-size: 26px;
+}
+
 
 a{
     text-decoration: none;
@@ -137,5 +141,16 @@ p{
   @media (min-width: 1000px){
     .wrapper{
       width: 50%;
+    }
+    img{
+      width: 50%;
+      height: 50%;
+      align-self: center;
+    }
+
+    .topper{
+      position: absolute;
+      bottom: 85%;
+      right: 25%;
     }
   }

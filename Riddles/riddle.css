@@ -143,4 +143,10 @@ a{
   .wrapper{
     width: 50%;
   }
+
+  .topper{
+    position: absolute;
+    bottom: 85%;
+    right: 25%;
+  }
 }
