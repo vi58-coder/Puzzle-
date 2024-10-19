@@ -7,7 +7,10 @@
 body{
   margin: 0;
   /* background: linear-gradient(to left bottom, #ec008c, #fc6767, #ec008c);   */
-  background-color: rgb(42, 193, 42);
+  /* background-color: rgb(42, 193, 42); */
+  background-color: #FAACA8;
+  background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
